@@ -9,3 +9,7 @@ This repo is for learning Markdown
 ### This is 3 level heading
 
 #### This is 4 level heading
+
+##### Heading 5
+
+###### Heading 6

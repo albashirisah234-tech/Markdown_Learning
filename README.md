@@ -23,3 +23,23 @@ This text is not bolded
 # Italics
 
 _This text is in italics_ 
+
+# List
+
+Unordered Lists: You can make an unorered lists by preceding list items with either a -, *, or +.
+
+- Number 1
+- Number 2
+- Number 3
+
+
+* Number 1
+* Number 2
+* Number 3
+
++ Number 1
++ Number 2
++ Number 3
+
+
+* 

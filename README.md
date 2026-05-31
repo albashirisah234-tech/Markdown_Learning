@@ -2,7 +2,7 @@
 This repo is for learning Markdown
 
 
-# Tutorial
+# Heading
 
 ## This is 2 level heading
 
@@ -13,3 +13,13 @@ This repo is for learning Markdown
 ##### Heading 5
 
 ###### Heading 6
+
+# Bold
+
+**This text is bolded**
+
+This text is not bolded
+
+# Italics
+
+_This text is in italics_ 

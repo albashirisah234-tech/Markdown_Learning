@@ -29,13 +29,13 @@ _This text is in italics_
 Unordered Lists: You can make an unorered lists by preceding list items with either a -, *, or +.
 
 - Number 1
-    - Nexted 1
-    - Nexted 2
-    - Nexted 3
+    - Nexted 
+    - Nexted 
+    - Nexted 
 - Number 2
-    - Nexted 1
-    - Nexted 2
-    - Nexted 3
+    - Nexted 
+    - Nexted 
+    - Nexted 
 - Number 3
 
 
@@ -48,4 +48,11 @@ Unordered Lists: You can make an unorered lists by preceding list items with eit
 + Number 3
 
 
-* 
+ordered Lists: Ordered list are created using numbers:
+
+
+1. One
+2. Two
+3. Three
+4. Four
+5. Five
